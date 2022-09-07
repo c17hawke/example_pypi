@@ -1,1 +1,2 @@
-# PYPI python package template
+# example package
+
